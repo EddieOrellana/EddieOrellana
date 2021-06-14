@@ -1,8 +1,61 @@
+
 body {
-  background-color: lightblue;
+  background-color: grey; /* colour of page background  */
+}
+
+div {background: rgba(0,120,80) ; /* Green background with 30% opacity */
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+
+}
+
+
+li {
+  float: left;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding:  14px;
+  text-decoration: none;
+  width: 100%;
+
+}
+
+li a:hover {
+  background-color: green;
 }
 
 h1 {
-  color: navy;
+  color: white;
   margin-left: 20px;
+  font-style: italic;
+}
+
+
+strong {
+  color: white;
+  margin-left: 20px;
+
+}
+
+p {
+color: black
+margin-left: 20px
+
+
 }
