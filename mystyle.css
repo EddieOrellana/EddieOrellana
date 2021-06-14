@@ -3,7 +3,7 @@ body {
   background-color: grey; /* colour of page background  */
 }
 
-div {background: rgba(0,120,80) ; /* Green background with 30% opacity */
+div {background: rgba(0,120,80) ; /* colour for background on Div */
 
 }
 
@@ -40,22 +40,36 @@ li a:hover {
   background-color: green;
 }
 
+/* All H1 writting  */
+
 h1 {
   color: white;
   margin-left: 20px;
   font-style: italic;
+  font-family: "Courier New"
 }
 
+h2 {
+color: white;
+margin-left: 20px
+font-style: italic;
+
+}
+
+/* All bold writting  */
 
 strong {
   color: white;
   margin-left: 20px;
+  font-family: "Courier New"
 
 }
 
 p {
-color: black
-margin-left: 20px
+color: white
+font-style: normal;
+margin-left: 20px;
+font-family: "Courier New"
 
 
 }
