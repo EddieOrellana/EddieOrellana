@@ -50,6 +50,8 @@ h1 {
   font-family: "Courier New"
 }
 
+/* All h2 writting */
+
 h2 {
 color: white;
 margin-left: 20px
@@ -57,6 +59,17 @@ font-style: italic;
 font-family: "Courier New"
 
 }
+
+/* All h3 writting */
+
+h3 {
+  color: white;
+  margin-left: 20px
+  font-style: italic;
+  font-family: "Courier New"
+
+}
+
 
 /* All bold writting  */
 
@@ -67,11 +80,19 @@ strong {
 
 }
 
+/* All paragraph writting */
+
 p {
 color: white
 font-style: normal;
 margin-left: 20px;
 font-family: "Courier New"
+}
 
-
+img {
+margin-left: 30px;
+border-radius: 20px;
+border-color: black;
+border-style: solid;
+border-width: 5px;
 }
