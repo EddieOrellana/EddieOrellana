@@ -4,6 +4,10 @@ body {
 }
 
 div {background: rgba(0,120,80) ; /* colour for background on Div */
+border-width: 10px;
+border-color: black;
+
+
 
 }
 
@@ -33,7 +37,7 @@ li a {
   padding:  14px;
   text-decoration: none;
   width: 100%;
-  font-family: "Courier New"
+  font-family: "Courier New";
 
 }
 
@@ -54,9 +58,9 @@ h1 {
 
 h2 {
 color: white;
-margin-left: 20px
+margin-left: 20px;
 font-style: italic;
-font-family: "Courier New"
+font-family: "Courier New";
 
 }
 
@@ -64,7 +68,7 @@ font-family: "Courier New"
 
 h3 {
   color: white;
-  margin-left: 20px
+  margin-left: 20px;
   font-style: italic;
   font-family: "Courier New"
 
@@ -86,7 +90,7 @@ p {
 color: white
 font-style: normal;
 margin-left: 20px;
-font-family: "Courier New"
+font-family: "Courier New";
 }
 
 img {
